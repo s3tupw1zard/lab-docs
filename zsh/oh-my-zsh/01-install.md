@@ -3,7 +3,7 @@
 For this we need to install zsh:
 
 ```bash
-sudo apt instal zsh
+sudo apt install zsh
 ```
 
 The output will be like this:

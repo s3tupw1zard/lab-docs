@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zsh/oh-my-zsh/02-install-fonts.md",
+                "file": "zsh/oh-my-zsh/01-install.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zsh/oh-my-zsh/02-install-fonts.md",
+                "file": "zsh/oh-my-zsh/01-install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zsh/oh-my-zsh/02-install-fonts.md",
+                "file": "zsh/oh-my-zsh/01-install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zsh/oh-my-zsh/02-install-fonts.md"
+                "file": "zsh/oh-my-zsh/01-install.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   "active": "c814da964c6b162c",
   "lastOpenFiles": [
     "zsh/oh-my-zsh/03-install-agnoster-theme.md",
-    "zsh/oh-my-zsh/01-install.md",
     "zsh/oh-my-zsh/02-install-fonts.md",
+    "zsh/oh-my-zsh/01-install.md",
     "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
     "zsh/oh-my-zsh",
     "zsh",
