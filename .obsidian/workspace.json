@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/Rancher/01-environment-setup/Windows/01-WSL2.md",
+                "file": "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/Rancher/01-environment-setup/Windows/01-WSL2.md",
+                "file": "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes/Rancher/01-environment-setup/Windows/01-WSL2.md",
+                "file": "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/Rancher/01-environment-setup/Windows/01-WSL2.md"
+                "file": "kubernetes/kubectl-notes/bash-snippets/Aliases.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "c814da964c6b162c",
   "lastOpenFiles": [
-    "kubernetes/Rancher/01-environment-setup/Linux/02-install-needed-packages.md",
+    "kubernetes/kubectl-notes/bash-snippets/Bash-Completion.md",
+    "kubernetes/kubectl-notes/bash-snippets/Aliases-Usage.md",
+    "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
     "kubernetes/Rancher/01-environment-setup/Windows/01-WSL2.md",
+    "kubernetes/kubectl-notes/bash-snippets",
+    "kubernetes/kubectl-notes",
+    "kubernetes/Rancher/01-environment-setup/Linux/02-install-needed-packages.md",
     "kubernetes/Rancher/01-environment-setup/Linux/03-install-apt-packages.md",
     "kubernetes/Rancher/01-environment-setup/Linux/Untitled",
     "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md",
@@ -162,8 +167,6 @@
     "kubernetes/Rancher/02-installation",
     "kubernetes/Installation",
     "kubernetes/Untitled.canvas",
-    "docker/base-images/example-app/Dockerfile",
-    "docker/base-images/example-app/Textdokument (neu).txt",
     "Welcome.md"
   ]
 }
