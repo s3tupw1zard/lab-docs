@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
+                "file": "zsh/oh-my-zsh/02-install-fonts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
+                "file": "zsh/oh-my-zsh/02-install-fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
+                "file": "zsh/oh-my-zsh/02-install-fonts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/kubectl-notes/bash-snippets/Aliases.md"
+                "file": "zsh/oh-my-zsh/02-install-fonts.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "c814da964c6b162c",
   "lastOpenFiles": [
+    "zsh/oh-my-zsh/03-install-agnoster-theme.md",
+    "zsh/oh-my-zsh/01-install.md",
+    "zsh/oh-my-zsh/02-install-fonts.md",
+    "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
+    "zsh/oh-my-zsh",
+    "zsh",
     "kubernetes/kubectl-notes/bash-snippets/Bash-Completion.md",
     "kubernetes/kubectl-notes/bash-snippets/Aliases-Usage.md",
-    "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
     "kubernetes/Rancher/01-environment-setup/Windows/01-WSL2.md",
     "kubernetes/kubectl-notes/bash-snippets",
     "kubernetes/kubectl-notes",
@@ -164,8 +169,6 @@
     "kubernetes/Rancher/01-environment-setup",
     "kubernetes/Rancher",
     "kubernetes/Rancher/01-installation/01 Install Rancher",
-    "kubernetes/Rancher/02-installation",
-    "kubernetes/Installation",
     "kubernetes/Untitled.canvas",
     "Welcome.md"
   ]
