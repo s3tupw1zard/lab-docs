@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "kubernetes/Rancher/01-environment-setup/Windows/01-WSL2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "kubernetes/Rancher/01-environment-setup/Windows/01-WSL2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "kubernetes/Rancher/01-environment-setup/Windows/01-WSL2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "kubernetes/Rancher/01-environment-setup/Windows/01-WSL2.md"
               }
             }
           }
@@ -146,10 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae0cbba3af23fb00",
+  "active": "c814da964c6b162c",
   "lastOpenFiles": [
-    "Textdokument (neu).txt",
-    "Welcome.md",
-    "README.md"
+    "kubernetes/Rancher/01-environment-setup/Linux/02-install-needed-packages.md",
+    "kubernetes/Rancher/01-environment-setup/Windows/01-WSL2.md",
+    "kubernetes/Rancher/01-environment-setup/Linux/03-install-apt-packages.md",
+    "kubernetes/Rancher/01-environment-setup/Linux/Untitled",
+    "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md",
+    "README.md",
+    "kubernetes/Rancher/01-environment-setup/Linux",
+    "kubernetes/Rancher/01-environment-setup/Windows",
+    "kubernetes/Rancher/01-environment-setup",
+    "kubernetes/Rancher",
+    "kubernetes/Rancher/01-installation/01 Install Rancher",
+    "kubernetes/Rancher/02-installation",
+    "kubernetes/Installation",
+    "kubernetes/Untitled.canvas",
+    "docker/base-images/example-app/Dockerfile",
+    "docker/base-images/example-app/Textdokument (neu).txt",
+    "Welcome.md"
   ]
 }
