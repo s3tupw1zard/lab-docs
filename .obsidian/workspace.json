@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md",
+                "file": "docker/storing-secrets/SOPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md",
+                "file": "docker/storing-secrets/SOPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md",
+                "file": "docker/storing-secrets/SOPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md"
+                "file": "docker/storing-secrets/SOPS.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "be450f3523ee7a3c",
   "lastOpenFiles": [
+    "README.md",
+    "docker/storing-secrets/SOPS.md",
+    "docker/storing-secrets",
+    "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md",
+    "sops",
     "linux/common/debian/RDP/RDP-Server.md",
     "linux/common/debian/RDP/Remmina.md",
     "linux/common/debian/Add-PPAs/Install-software-properties-common.md",
@@ -158,7 +163,6 @@
     "linux/common/debian/RDP",
     "linux/common/debian",
     "linux/ubuntu/RDP",
-    "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md",
     "kubernetes/Rancher/01-environment-setup/Linux/02-install-needed-packages.md",
     "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
     "zsh/oh-my-zsh/03-install-agnoster-theme.md",
@@ -171,9 +175,6 @@
     "kubernetes/kubectl-notes/bash-snippets",
     "kubernetes/kubectl-notes",
     "kubernetes/Rancher/01-environment-setup/Linux/03-install-apt-packages.md",
-    "kubernetes/Rancher/01-environment-setup/Linux/Untitled",
-    "README.md",
-    "kubernetes/Rancher/01-environment-setup/Linux",
     "kubernetes/Untitled.canvas",
     "Welcome.md"
   ]
