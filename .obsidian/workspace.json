@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4d1e6248fb95176",
+        "id": "c4181c620e96192d",
         "type": "tabs",
         "children": [
           {
-            "id": "c814da964c6b162c",
+            "id": "be450f3523ee7a3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/common/debian/RDP/RDP-Server.md",
+                "file": "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/common/debian/RDP/RDP-Server.md",
+                "file": "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/common/debian/RDP/RDP-Server.md",
+                "file": "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/common/debian/RDP/RDP-Server.md"
+                "file": "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c814da964c6b162c",
+  "active": "be450f3523ee7a3c",
   "lastOpenFiles": [
-    "linux/common/debian/RDP/Remmina.md",
     "linux/common/debian/RDP/RDP-Server.md",
+    "linux/common/debian/RDP/Remmina.md",
     "linux/common/debian/Add-PPAs/Install-software-properties-common.md",
     "linux/common/debian/Add-PPAs/PPA-installation.md",
     "zsh/oh-my-zsh/02-install-fonts.md",

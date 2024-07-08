@@ -36,9 +36,18 @@ s3tupw1zard@Manuels-Laptop:~$
 
 Next we need to add Homebrew to our path. For this, we execute the following:
 
+For Bash:
+
 ```bash
 (echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/$USER/.bashrc
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+```
+
+For ZSH:
+
+```zsh
+(echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/s3tupw1zard/.zshrc
+    eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 ```
 
 After this, we can verify that the brew command is available:
