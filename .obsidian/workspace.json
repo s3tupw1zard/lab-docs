@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pelican-dev/panel/eggs/egg-spigot.json.md",
+                "file": "pelican-dev/panel/patches/patch-for-IPv6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pelican-dev/panel/eggs/egg-spigot.json.md",
+                "file": "pelican-dev/panel/patches/patch-for-IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pelican-dev/panel/eggs/egg-spigot.json.md",
+                "file": "pelican-dev/panel/patches/patch-for-IPv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pelican-dev/panel/eggs/egg-spigot.json.md"
+                "file": "pelican-dev/panel/patches/patch-for-IPv6.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "bb0df6880cf6904d",
   "lastOpenFiles": [
-    "pelican-dev/panel/eggs/egg-forge-minecraft.json.md",
+    "pelican-dev/wings/config.yml.md",
+    "pelican-dev/panel/patches/patch-for-IPv6.md",
+    "pelican-dev/panel/patches",
     "pelican-dev/panel/eggs/egg-spigot.json.md",
+    "pelican-dev/panel/eggs/egg-forge-minecraft.json.md",
     "pelican-dev/panel/eggs/egg-palworld-proton.json.md",
     "pelican-dev/docker/daemon.json-configuration.md",
     "docker/storing-secrets/SOPS.md",
@@ -170,7 +173,6 @@
     "linux/common/debian/Add-PPAs",
     "linux/ubuntu/RDP/Remmina.md",
     "linux/common/debian/RDP",
-    "linux/common/debian",
     "kubernetes/Rancher/01-environment-setup/Linux/02-install-needed-packages.md",
     "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
     "zsh/oh-my-zsh/03-install-agnoster-theme.md",
