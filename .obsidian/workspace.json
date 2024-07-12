@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c4181c620e96192d",
+        "id": "501cf28bc956b814",
         "type": "tabs",
         "children": [
           {
-            "id": "be450f3523ee7a3c",
+            "id": "bb0df6880cf6904d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/storing-secrets/SOPS.md",
+                "file": "pelican-dev/panel/eggs/egg-spigot.json.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/storing-secrets/SOPS.md",
+                "file": "pelican-dev/panel/eggs/egg-spigot.json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/storing-secrets/SOPS.md",
+                "file": "pelican-dev/panel/eggs/egg-spigot.json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/storing-secrets/SOPS.md"
+                "file": "pelican-dev/panel/eggs/egg-spigot.json.md"
               }
             }
           }
@@ -146,10 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be450f3523ee7a3c",
+  "active": "bb0df6880cf6904d",
   "lastOpenFiles": [
-    "README.md",
+    "pelican-dev/panel/eggs/egg-forge-minecraft.json.md",
+    "pelican-dev/panel/eggs/egg-spigot.json.md",
+    "pelican-dev/panel/eggs/egg-palworld-proton.json.md",
+    "pelican-dev/docker/daemon.json-configuration.md",
     "docker/storing-secrets/SOPS.md",
+    "pelican-dev/wings",
+    "pelican-dev/panel/eggs",
+    "pelican-dev/panel",
+    "pelican-dev/docker",
+    "pelican-dev",
+    "README.md",
     "docker/storing-secrets",
     "kubernetes/Rancher/01-environment-setup/Linux/01-install-homebrew.md",
     "sops",
@@ -162,18 +171,13 @@
     "linux/ubuntu/RDP/Remmina.md",
     "linux/common/debian/RDP",
     "linux/common/debian",
-    "linux/ubuntu/RDP",
     "kubernetes/Rancher/01-environment-setup/Linux/02-install-needed-packages.md",
     "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
     "zsh/oh-my-zsh/03-install-agnoster-theme.md",
     "zsh/oh-my-zsh/01-install.md",
-    "zsh/oh-my-zsh",
-    "zsh",
     "kubernetes/kubectl-notes/bash-snippets/Bash-Completion.md",
     "kubernetes/kubectl-notes/bash-snippets/Aliases-Usage.md",
     "kubernetes/Rancher/01-environment-setup/Windows/01-WSL2.md",
-    "kubernetes/kubectl-notes/bash-snippets",
-    "kubernetes/kubectl-notes",
     "kubernetes/Rancher/01-environment-setup/Linux/03-install-apt-packages.md",
     "kubernetes/Untitled.canvas",
     "Welcome.md"
