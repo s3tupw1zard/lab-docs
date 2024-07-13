@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/apps/forgejo/forgejo-w-runner.md",
+                "file": "linux/common/nginx/redirect-from-ip-to-sub-domain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/apps/forgejo/forgejo-w-runner.md",
+                "file": "linux/common/nginx/redirect-from-ip-to-sub-domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/apps/forgejo/forgejo-w-runner.md",
+                "file": "linux/common/nginx/redirect-from-ip-to-sub-domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/apps/forgejo/forgejo-w-runner.md"
+                "file": "linux/common/nginx/redirect-from-ip-to-sub-domain.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "bb0df6880cf6904d",
   "lastOpenFiles": [
-    "pelican-dev/panel/patches/patch-for-IPv6.md",
-    "docker/apps/forgejo/forgejo-w-runner.md",
-    "docker/apps/forgejo",
     "pelican-dev/wings/config.yml.md",
+    "linux/common/nginx/redirect-from-ip-to-sub-domain.md",
+    "linux/common/nginx",
+    "docker/apps/forgejo/forgejo-w-runner.md",
+    "pelican-dev/panel/patches/patch-for-IPv6.md",
+    "docker/apps/forgejo",
     "pelican-dev/panel/patches",
     "pelican-dev/panel/eggs/egg-spigot.json.md",
     "pelican-dev/panel/eggs/egg-forge-minecraft.json.md",
@@ -172,7 +174,6 @@
     "linux/common/debian/Add-PPAs/Install-software-properties-common.md",
     "linux/common/debian/Add-PPAs/PPA-installation.md",
     "zsh/oh-my-zsh/02-install-fonts.md",
-    "linux/common/debian/Add-PPAs",
     "linux/ubuntu/RDP/Remmina.md",
     "kubernetes/Rancher/01-environment-setup/Linux/02-install-needed-packages.md",
     "kubernetes/kubectl-notes/bash-snippets/Aliases.md",
